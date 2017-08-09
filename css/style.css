@@ -35,6 +35,9 @@ li {
 p {
   font-size: 24px; }
 
+.btn.focus, .btn:focus, .btn:hover {
+  color: #efefef; }
+
 .row {
   overflow: hidden;
   padding-bottom: 3rem; }

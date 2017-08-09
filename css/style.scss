@@ -51,7 +51,9 @@ li {
 p {
     font-size: 24px;
 }
-
+.btn.focus, .btn:focus, .btn:hover{
+    color: #efefef;
+}
 //чтобы выровнять колонки
 .row {
     overflow: hidden;
